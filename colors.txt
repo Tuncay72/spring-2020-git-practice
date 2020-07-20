@@ -8,3 +8,5 @@ orange
 =======
 purple
 >>>>>>> a7af62a56da479d9440f2414b12f010b842243b8
+white
+cyan
