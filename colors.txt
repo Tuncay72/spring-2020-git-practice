@@ -8,5 +8,9 @@ orange
 =======
 purple
 >>>>>>> a7af62a56da479d9440f2414b12f010b842243b8
+<<<<<<< HEAD
 white
 cyan
+=======
+apricot
+>>>>>>> 20f47c6516e4ec89a54fbdc69ee5506f3d660c57
