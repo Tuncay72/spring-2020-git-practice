@@ -1,11 +1,9 @@
 Toyota
 Mazda
 Honda
-<<<<<<< HEAD
 BMW
 Jaguar
 Bentley
-=======
 Mercedes
 Audi
 KIA 
