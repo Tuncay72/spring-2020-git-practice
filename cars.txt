@@ -9,13 +9,19 @@ Audi
 KIA 
 Tesla
 Ford
+<<<<<<< Updated upstream
 Updated upstream
 Jeep
 Lincoln
+=======
+>>>>>>> Stashed changes
 Ferrari
 Lamborgini
 jeep
 
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 
